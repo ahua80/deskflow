@@ -62,6 +62,7 @@ var hierarchy =
     [ "deskflow::server::Config", "classdeskflow_1_1server_1_1Config.html", null ],
     [ "deskflow::server::ConfigReadContext", "classdeskflow_1_1server_1_1ConfigReadContext.html", null ],
     [ "IDataSocket::ConnectionFailedInfo", "classIDataSocket_1_1ConnectionFailedInfo.html", null ],
+    [ "Coordinate", "structCoordinate.html", null ],
     [ "Settings::Core", "structSettings_1_1Core.html", null ],
     [ "CoreArgParser", "classCoreArgParser.html", null ],
     [ "CoreArgs", "structCoreArgs.html", null ],
@@ -315,6 +316,7 @@ var hierarchy =
     [ "QDialog", null, [
       [ "AboutDialog", "classAboutDialog.html", null ],
       [ "ActionDialog", "classActionDialog.html", null ],
+      [ "ClientConfigDialog", "classClientConfigDialog.html", null ],
       [ "FingerprintDialog", "classFingerprintDialog.html", null ],
       [ "HotkeyDialog", "classHotkeyDialog.html", null ],
       [ "ScreenSettingsDialog", "classScreenSettingsDialog.html", null ],
@@ -357,6 +359,9 @@ var hierarchy =
       [ "KeySequenceWidget", "classKeySequenceWidget.html", null ]
     ] ],
     [ "QSettingsProxy", "classQSettingsProxy.html", null ],
+    [ "QStatusBar", null, [
+      [ "StatusBar", "classStatusBar.html", null ]
+    ] ],
     [ "QTableView", null, [
       [ "ScreenSetupView", "classScreenSetupView.html", null ]
     ] ],
